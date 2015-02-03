@@ -1,0 +1,5 @@
+NAO: {description: '', git: 'https://github.com/ogata-lab/NAO.git', hash: b9516f73b6692234e700ba0358251880c0a47fe9}
+SFMLJoyToVel: {description: '', git: 'https://github.com/sugarsweetrobotics/SFMLJoyToVel.git',
+  hash: 00325430ae1176626004e14859c1cba683f21ff3}
+SFMLJoystick: {description: '', git: 'https://github.com/sugarsweetrobotics/SFMLJoystick.git',
+  hash: 3d96540b055bfc0d9400ddfcbb463a253489e884}
