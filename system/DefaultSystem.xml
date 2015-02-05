@@ -26,15 +26,15 @@
         <rts:ConfigurationSets rts:id="default">
             <rts:ConfigurationData rts:data="1" rts:name="enable_audio"/>
             <rts:ConfigurationData rts:data="1" rts:name="enable_camera"/>
-            <rts:ConfigurationData rts:data="0.1" rts:name="orthogonal_security_distance"/>
+            <rts:ConfigurationData rts:data="0.002" rts:name="orthogonal_security_distance"/>
             <rts:ConfigurationData rts:data="1" rts:name="num_channel"/>
             <rts:ConfigurationData rts:data="front" rts:name="channel_name"/>
             <rts:ConfigurationData rts:data="0" rts:name="camera_id"/>
             <rts:ConfigurationData rts:data="16000" rts:name="num_samples"/>
             <rts:ConfigurationData rts:data="1" rts:name="debug"/>
-            <rts:ConfigurationData rts:data="0.1" rts:name="tangential_security_distance"/>
-            <rts:ConfigurationData rts:data="localhost" rts:name="ipaddress"/>
-            <rts:ConfigurationData rts:data="51744" rts:name="port"/>
+            <rts:ConfigurationData rts:data="0.002" rts:name="tangential_security_distance"/>
+            <rts:ConfigurationData rts:data="tetsuya.local" rts:name="ipaddress"/>
+            <rts:ConfigurationData rts:data="9559" rts:name="port"/>
             <rts:ConfigurationData rts:data="1" rts:name="interleaved"/>
         </rts:ConfigurationSets>
         <rts:ConfigurationSets rts:id="__widget__">
